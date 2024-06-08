@@ -1,0 +1,3 @@
+[workspace]
+members = ["ratatui-counter-demo", "ratatui-demo"]
+resolver = "2"
